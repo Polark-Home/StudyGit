@@ -1,1 +1,3 @@
 # StudyGit
+
+Written by polark.
